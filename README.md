@@ -19,3 +19,7 @@ peach: 10
 ```
 ## Requirements
 Create a js document and complete the above requirements.
+
+## Result
+![image](https://user-images.githubusercontent.com/52924993/172291579-5c6673a6-5e27-4364-8729-4096b85d7545.png)
+
